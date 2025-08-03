@@ -6,7 +6,7 @@
 
 ## 中文 (zh)
 
-### 背后的故事\*
+### 背后的故事
 
 2025 年中，一群热爱 HTML5 的独立开发者发现：想在碎片时间玩上一款小游戏，往往需要下载几十兆的 App，或忍受漫长的广告。当即决定打造 **PlayCrazyGames.io**——一个「零安装、点开即玩」的网页游戏平台。
 
@@ -228,5 +228,5 @@ Kompletne tłumaczenie 77 gier na 7 języków (100 %).
 
 ---
 
-*End of file*
+*Thanks for your attention*
 
